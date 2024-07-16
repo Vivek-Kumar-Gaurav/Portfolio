@@ -13,7 +13,7 @@
 
 This Website shows about me.
 
-## Built WitH
+## Built With
 
 - HTML
 - CSS
